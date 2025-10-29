@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1555b8da0b1734f43802945e2f628bb8, type: 3}
+  m_Name: FanteD
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -1583099144, guid: a6d70c0ed8a382f48b0834f73fb53803, type: 3}
+  cardNumber: 0
+  cartValue: 2
+  cardSeed: 2
